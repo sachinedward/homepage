@@ -3003,3 +3003,22 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+.schooling {
+  padding-right: 150px !important;
+}
+
+.welcome_text p {
+  min-width: 100% !important;
+  max-width: 100% !important;
+}
+
+.skills-icon {
+  max-width: 120px;
+  max-height: 120px;
+}
+
+.wel_item {
+  min-height: 160px;
+  margin: 5px;
+}
